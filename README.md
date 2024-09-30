@@ -19,7 +19,7 @@ This Repository consists of the following files: -->
 ## How to Make the Most of This Repository?
 - Read the report to understand the problem statement, system description, system analysis, and results.
 - Open the Simulink model files in MATLAB to run the simulation and try changing the parameters, inputs, add new blocks/features, etc. This is the best way to understand the system dynamics.
-- Refer to the reference materials for further study.
+- Checkout the reference materials for further study.
 
 ## What You Will Learn?
 - **SCARA Robot Kinematics**: Understand the forward and inverse kinematics of a SCARA robot, and how they are modeled in Simulink.

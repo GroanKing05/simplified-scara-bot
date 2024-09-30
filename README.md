@@ -1,7 +1,7 @@
 # Systems Thinking Project (Simplified Scara Robot)
 
 ## Overview
-This project involves the simulation of a simplified SCARA robot (a non-planar model, with 1 rotational and 1 translational degree of freedom) using MATLAB Simulink. The project contains the Simulink files, a detailed report (in PDF format), and reference materials for further study.
+This project involves the simulation of a simplified SCARA robot (a non-planar model, with 1 rotational and 1 translational degree of freedom) using MATLAB Simulink. The project contains the Simulink files, and a detailed report.
 <!-- A non-planar model, with 1 rotational and 1 translational degree of freedom.
 This Repository consists of the following files: -->
 

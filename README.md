@@ -14,4 +14,13 @@ This Repository consists of the following files: -->
 3. Open the Simulink model files in MATLAB-Simulink and run the simulation.
 
 
-
+## Credits
+Team - PeopleInDistress
+[Varun Shastry](https://github.com/GroanKing05) 2023112005 
+[M.P. Samartha](https://github.com/samarthamp) 2023102038
+[Siddarth Gottumukkula](https://github.com/IamSid44) 2023102040
+[Srihari Padmanabhan](https://github.com/sriharip114) 2023102021
+[Vedant Pahariya](https://github.com/VedantPahariya) 2023112012
+[Pa Kiruba](https://github.com/Kiruba-Selvakumar) 2023112010
+[Sarvesh Takbhate](https://github.com/sarvesh2005takbhate) 2023102039
+[Mohd Harish](https://github.com/Mohd-Harish123) 2023102003

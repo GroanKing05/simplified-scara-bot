@@ -15,7 +15,7 @@ This Repository consists of the following files: -->
 
 
 ## Credits
-Team - PeopleInDistress
+Team - PeopleInDistress <br>
 [Varun Shastry](https://github.com/GroanKing05) 2023112005 <br>
 [M.P. Samartha](https://github.com/samarthamp) 2023102038 <br>
 [Siddarth Gottumukkula](https://github.com/IamSid44) 2023102040 <br>
